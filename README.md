@@ -5,7 +5,7 @@ Small application to convert data from JSON to XML format
 
 ###JSON:
 
-```
+```javascript
 {
    "menu":{
       "id":"file",
@@ -31,7 +31,7 @@ Small application to convert data from JSON to XML format
 ```
 ###XML:
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <OBJECT>
     <menu>
